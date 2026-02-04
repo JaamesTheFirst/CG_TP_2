@@ -1,0 +1,3 @@
+/home/tiago/CG_TP_2/build/CMakeFiles/CG_TP_2.dir
+/home/tiago/CG_TP_2/build/CMakeFiles/edit_cache.dir
+/home/tiago/CG_TP_2/build/CMakeFiles/rebuild_cache.dir
